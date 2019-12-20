@@ -1,1 +1,3 @@
-# golang_comment
+# Comment
+// -> single line
+/**/ -> multiline
